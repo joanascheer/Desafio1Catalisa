@@ -126,6 +126,3 @@ public class CalculoImpostoSimCity {
     
     }
 }
-
-
-// Objetivo: calcular imposto
