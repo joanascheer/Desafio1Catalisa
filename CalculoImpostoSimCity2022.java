@@ -107,8 +107,6 @@ public class CalculoImpostoSimCity2022 {
                 System.out.printf("%2do mês: R$" +formata.format(salarios[i])+ "\n", (i+1));
             } else {
 
-                //cadastraSalarios(salarios);
-
             System.out.printf("Digite o salário no %2do mês: ", (i+1));
                 salarios[i] = leSalario.nextDouble();
 
